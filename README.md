@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Dojizz
-- 👀 I’m interested in Computer graphics and anything that's interesting!
-- 🌱 I’m currently learning and doing research on Neural Rendering, especailly NeRF.
+- @Dojizz
+- Interested in Computer graphics and anything that's interesting!
+- Currently learning and doing research on Neural Rendering, especailly NeRF.
+- What I cannot create, I do not understand.
 
 
 <!---
